@@ -16,7 +16,6 @@
 ## Books
 - [Reinforcement Learning: An Introduction](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981)
 	- Sutton & Barto (1998), a classic introduction to the field.
-- [Answers in this Quora thread](https://www.quora.com/What-are-the-best-books-about-reinforcement-learning)
 - [Algorithms for Reinforcement Learning](http://www.ualberta.ca/~szepesva/RLBook.html)
 	- Szepesvari (2010), for off-the-shelf algorithms
 
@@ -31,7 +30,7 @@
 
 ## Tutorials
 - [Richard Sutton's Introduction to Reinforcement Learning](http://research.microsoft.com/apps/video/?id=259577)
-- [Deep Mind Tutorial 2018] (https://www.youtube.com/playlist?list=PLTrPwBmRciYBs4a8qQVuFz3zByUqqoStG)
+- [Deep Mind Tutorial 2018](https://www.youtube.com/playlist?list=PLTrPwBmRciYBs4a8qQVuFz3zByUqqoStG)
 
 ## Tools
 - [OpenAI Gym](https://gym.openai.com/)
