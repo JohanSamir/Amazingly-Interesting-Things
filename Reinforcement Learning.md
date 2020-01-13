@@ -30,7 +30,7 @@
 
 ## Tutorials
 - [Richard Sutton's Introduction to Reinforcement Learning](http://research.microsoft.com/apps/video/?id=259577)
-- [Deep Mind Tutorial 2018](https://www.youtube.com/playlist?list=PLTrPwBmRciYBs4a8qQVuFz3zByUqqoStG)
+- [Deepmind Tutorial 2018](https://www.youtube.com/playlist?list=PLTrPwBmRciYBs4a8qQVuFz3zByUqqoStG)
 
 ## Tools
 - [OpenAI Gym](https://gym.openai.com/)
