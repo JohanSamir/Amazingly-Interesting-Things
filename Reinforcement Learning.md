@@ -28,6 +28,10 @@
 	- Instructor: David Silver
 	- [Lecture Videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
+- [Reinforcement Learning - NPTEL](https://nptel.ac.in/courses/106/106/106106143/#)
+	- Instructor: Balaraman R
+	- [Lecture Videos](https://www.youtube.com/watch?v=TIlDzLZPyhY&list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
+
 ## Tutorials
 - [Richard Sutton's Introduction to Reinforcement Learning](http://research.microsoft.com/apps/video/?id=259577)
 - [Deepmind Tutorial 2018](https://www.youtube.com/playlist?list=PLTrPwBmRciYBs4a8qQVuFz3zByUqqoStG)
